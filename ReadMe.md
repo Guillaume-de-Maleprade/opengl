@@ -1,0 +1,1 @@
+https://openclassrooms.com/fr/courses/966823-developpez-vos-applications-3d-avec-opengl-3-3/960541-creer-une-fenetre-avec-la-sdl-2-0
